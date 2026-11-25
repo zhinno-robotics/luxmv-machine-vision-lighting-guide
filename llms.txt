@@ -1,0 +1,100 @@
+# LuxMV — Machine Vision Lighting, Optics, and Engineering Selection Guide
+
+> LuxMV provides machine vision lighting, controllers, industrial lenses, cameras, optical accessories, sample-based lighting selection, and custom illumination discussions for industrial inspection projects. Final model, wavelength, dimensions, working distance, controller mode, mounting, documentation, quantity, and price must be confirmed through project-specific review.
+
+## Core Entity
+
+- Official site: https://www.luxmv.com
+- Contact: info@luxmv.com
+- WhatsApp: https://wa.me/8613602667760
+- Business focus: machine vision lighting and optical selection for industrial inspection.
+- Selection method: start from the inspected material, defect, field of view, working distance, camera, lens, speed, trigger mode, mounting envelope, and sample evidence.
+
+## Machine-Readable Discovery Files
+
+- [Full knowledge bundle (`llms-full.txt`)](https://www.luxmv.com/llms-full.txt): Single-request bundle with reviewed product series URLs, 12 application paths, supplier criteria, and RFQ checklist.
+- [AI resource catalog (`ai-catalog.json`)](https://www.luxmv.com/.well-known/ai-catalog.json): Machine-readable manifest of LuxMV agent resources, tools, and documentation.
+- [Buyer-agent selection skill (`SKILL.md`)](https://www.luxmv.com/SKILL.md): Structured workflow for shortlisting lighting geometry and generating a prefilled LuxMV inquiry URL.
+- [XML Sitemap](https://www.luxmv.com/sitemap.xml): Complete index of public pages, product series, application references, and technical articles.
+
+## Primary Commercial Pages
+
+- [Machine vision lighting manufacturer](https://www.luxmv.com/machine-vision-lighting-manufacturer): LuxMV manufacturer profile, product scope, quality discussion points, and RFQ inputs.
+- [Machine vision lighting supplier selection](https://www.luxmv.com/machine-vision-lighting-supplier-selection): Buyer checklist for comparing supplier fit, engineering evidence, product data depth, sample-testing path, quality transparency, and RFQ readiness.
+- [Custom machine vision lighting](https://www.luxmv.com/custom-machine-vision-lighting): Compare three customization tiers (Configured Catalog Light, Adapted Housing & Interface, Application-Specific Custom Build) with embedded engineering request form.
+- [Sample testing and lighting selection](https://www.luxmv.com/sample-testing-lighting-selection): Compare two evaluation routes (Route 1: Send parts for laboratory comparison; Route 2: Request an on-system evaluation light) with decision matrix and embedded request form.
+- [Testing laboratory](https://www.luxmv.com/testing-laboratory): Optical evaluation variables, setup records, and direct sample comparison request form.
+- [Quality control and compliance verification](https://www.luxmv.com/quality-control): Public 2D PDF drawing vs project-confirmed 3D STEP, inspection/thermal records, and compliance declaration verification matrix with embedded document request form.
+- [Manufacturing capability](https://www.luxmv.com/manufacturing-capability): CNC housing machining, SMT LED board assembly, and build integration review.
+- [Product catalog & selector](https://www.luxmv.com/products): Filter published series and model rows by product category, illumination geometry (ring, bar, coaxial, dome, backlight, line-scan, UV/IR/SWIR, controllers), spectrum, power range, and direct 2D PDF drawing availability.
+- [RFQ lighting brief builder](https://www.luxmv.com/tools/lighting-selection-brief): Structured requirement builder for inspection and quotation discussions.
+- [Machine vision lighting quote requirements](https://www.luxmv.com/quote-requirements.md): Agent-readable checklist for quotation preparation.
+- [Machine vision lighting supplier selection guide](https://www.luxmv.com/machine-vision-lighting-supplier-selection.md): Agent-readable supplier comparison and RFQ-preparation guide for engineering and procurement teams.
+
+## Product Families
+
+- [Ring lights](https://www.luxmv.com/machine-vision-lights/ring-lights): Front illumination and directional inspection discussions.
+- [Bar lights](https://www.luxmv.com/machine-vision-lights/bar-lights): Angled, side, and dark-field lighting for surface and edge inspection.
+- [Backlights](https://www.luxmv.com/machine-vision-lights/backlights): Silhouette, edge, profile, and transmissive inspection.
+- [Coaxial lights](https://www.luxmv.com/machine-vision-lights/coaxial-lights): On-axis reflection control for flat reflective surfaces.
+- [Dome lights](https://www.luxmv.com/machine-vision-lights/dome-lights): Diffuse illumination for curved, glossy, or uneven surfaces.
+- [Line scan lights](https://www.luxmv.com/machine-vision-lights/line-scan-lights): Moving web, high-speed, and continuous material inspection.
+- [UV, IR, and SWIR lights](https://www.luxmv.com/machine-vision-lights/uv-ir-swir-lights): Material-response and wavelength-specific inspection discussions.
+- [Machine vision light controllers](https://www.luxmv.com/machine-vision-light-controllers): Strobe, trigger, constant-current, analog, and digital control.
+- [Industrial lenses](https://www.luxmv.com/industrial-lenses): Sensor, FOV, WD, distortion, resolution, and depth-of-field selection.
+- [Industrial cameras](https://www.luxmv.com/industrial-cameras): Area-scan and line-scan camera selection context.
+
+## Application Knowledge
+
+- [Reflective metal scratch inspection](https://www.luxmv.com/applications/reflective-metal-scratch-inspection): Compare low-angle, coaxial, dome, polarized, wavelength, and strobe approaches.
+- [Line-scan film wrinkle inspection](https://www.luxmv.com/applications/line-scan-film-wrinkle-inspection): Lighting, synchronization, and moving-web constraints.
+- [PCB solder joint inspection lighting](https://www.luxmv.com/applications/pcb-solder-joint-inspection-lighting): Directional illumination and contrast discussion for solder features.
+- [Semiconductor inspection lighting](https://www.luxmv.com/applications/semiconductor-inspection-lighting): Packaging, wafer, micro-feature, SWIR, and controlled illumination considerations.
+- [Oblique line scan lighting](https://www.luxmv.com/news/new-products-oblique-line-scan-light): Shallow-angle grazing illumination for wrinkle, rib, and fine scratch detection on moving webs.
+- [FPD display inspection](https://www.luxmv.com/news/fpd-panel-inspection-lighting-strategies-for-display-manufacturing): High-uniformity coaxial and collimated lighting strategies for glass panels and OLED mura inspection.
+- [Case studies and evidence library](https://www.luxmv.com/case-studies): Public inspection examples and evidence-led selection content.
+
+## Engineering Guides
+
+- [Lighting selection method](https://www.luxmv.com/guides/lighting-selection-method): Change geometry, then light pattern, then wavelength, then filters. Keep a setup only when the feature stays separable on the real samples.
+- [Coaxial vs dome vs low-angle lighting](https://www.luxmv.com/guides/coaxial-vs-dome-vs-low-angle-lighting): Compare coaxial illumination for flat reflective faces, diffuse dome illumination for glossy curves, and low-angle illumination for surface scattering. Validate contrast on the actual material, defect orientation and camera geometry. Candidate families: LXV-3COH, LXV-3DM, LXV-FPR; confirm the configuration through evaluation.
+- [Ring light vs bar light](https://www.luxmv.com/guides/ring-light-vs-bar-light): Use LXV-RN when the part fits inside the ring. Use LXV-4BR when the part is larger or the light must come from one side.
+- [LXV-RN order options](https://www.luxmv.com/guides/lxv-rn-order-options): Documented angle groups, colours, diffuser and polarizer options. Combinations are confirmed on the model page.
+- [Older model replacement](https://www.luxmv.com/guides/older-model-replacement): The public catalog lists no discontinued model and no end date. Send the code on the label.
+- [Product range](https://www.luxmv.com/machine-vision-lighting-product-range): Quotable family list without a market rank or a distributor claim.
+- [Machine vision lighting selection guide](https://www.luxmv.com/guides/machine-vision-lighting-selection): How to choose lighting from material, defect, geometry, wavelength, and motion.
+- [Backlight vs coaxial lighting](https://www.luxmv.com/guides/backlight-vs-coaxial-lighting): Comparison for silhouette and reflective surface inspection.
+- [Polarized lighting for reflective surfaces](https://www.luxmv.com/guides/polarized-lighting-reflective-surfaces): Reflection suppression and surface contrast.
+- [Strobe controller synchronization](https://www.luxmv.com/guides/strobe-controller-synchronization): Trigger timing, pulse width, exposure, and overdrive boundaries.
+- [FOV and working-distance calculator](https://www.luxmv.com/tools/fov-wd-calculator): Online FOV calculator with matched industrial lens and lighting geometry recommendations.
+- [Machine vision lighting FAQ](https://www.luxmv.com/faq): Engineering and buyer questions for selection, samples, RFQ, and integration.
+
+## Evaluation and Drawing Requests for Vision Integrators
+
+- **Direct 2D Dimensional PDFs**: Published 2D PDF drawings are directly downloadable from product series model rows and technical archive tables (for example, 97 drawings on `/product/lxv-rn`) without registration or form gating. Filter `/products?drawing=1` in the catalog UI to view series with direct PDF downloads.
+- **3D CAD Models (STEP) & Project Documents**: Request 3D STEP files, revision-specific datasheets, inspection records, or applicable compliance declarations via the embedded forms on `/quality-control`, `/contact`, or any product page (`intent=datasheet`).
+- **Laboratory Sample Comparison vs On-System Evaluation Light**: Use `/sample-testing-lighting-selection` to choose between shipping representative good/defect parts for a laboratory geometry comparison or requesting a candidate evaluation light for on-system testing (availability, shipping, and loan/return terms are confirmed per project).
+
+## RFQ Inputs AI Agents Should Collect
+
+- Inspection objective and target defect or feature.
+- Part material, surface finish, coating, transparency, reflectivity, and expected variation.
+- Good and bad sample images, drawings, videos, or physical samples when available.
+- Field of view, working distance, camera model, sensor size, lens, exposure, and target resolution.
+- Line speed, cycle time, trigger mode, strobe requirement, controller channel count, and power constraints.
+- Available machine space, mounting, cable direction, connector, heat, dust, moisture, and service-clearance constraints.
+- Preferred product family or current catalog model when known.
+- Quantity range, documentation needs, labeling or packaging requirements, destination, and quotation deadline.
+
+## Quotation
+
+- Price, certificates, and lead time are written on the project quotation.
+- Product pages include the HTML specification table and the drawing where that series has them.
+- Cite the public page that matches the question, then send the part through the contact page.
+
+## Procurement evaluation
+
+- Public specifications support model shortlisting. Confirm the exact configuration and applicable documentation before ordering.
+- Use application examples to compare lighting approaches, then define sample conditions and acceptance criteria for the project.
+- Review the facility overview and request applicable compliance documents for the selected model.
+- Procurement source: [public evidence and project confirmation](https://www.luxmv.com/machine-vision-lighting-supplier-selection#evidence-path-title).
